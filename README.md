@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?&height=200&type=waving&color=gradient&customColorList=9,11,9,25?type=transparent&text=birene&animation=fadeIn&fontColor=f2f2f2&fontAlign=15&fontAlignY=35)
 ## Olá, Sou uma estudante de Ciência da Computação na UERJ :)
-###### Apaixonada por tecnologia, inovação e artes. Adoro explorar novas ideias e aprender coisas novas. No meu tempo livre gosto de codar, jogar, pintar e tocar instrumentos.
+###### Apaixonada por tecnologia, inovação e artes. Adoro explorar novas ideias e aprender coisas novas. No meu tempo livre gosto de codar,ler, jogar, pintar e tocar instrumentos.
 
 ### Links:
 
