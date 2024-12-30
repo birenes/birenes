@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&height=200&type=waving&color=gradient&customColorList=9,11,9,25?type=transparent&text=birenes&animation=fadeIn&fontColor=f2f2f2&fontAlign=15&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?&height=200&type=waving&color=gradient&customColorList=9,11,9,25?type=transparent&text=birene&animation=fadeIn&fontColor=f2f2f2&fontAlign=15&fontAlignY=35)
 ## Olá, Sou uma estudante de Ciência da Computação na UERJ :)
 ###### Apaixonada por tecnologia, inovação e artes. Adoro explorar novas ideias e aprender coisas novas. No meu tempo livre gosto de codar, jogar, pintar e tocar instrumentos.
 
@@ -10,23 +10,15 @@
 
 ### Habilidades:
 ![Vscode](https://img.shields.io/badge/Vscode-660099?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-660099.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Java](https://img.shields.io/badge/java-660099.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-660099?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-660099?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-660099?style=for-the-badge&logo=c&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-660099.svg?style=for-the-badge&logo=Postman&logoColor=white)
 ![Python](https://img.shields.io/badge/python-660099?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Ruby](https://img.shields.io/badge/Ruby-660099?style=for-the-badge&logo=ruby&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-660099?style=for-the-badge&logo=git&logoColor=bf80ff)]()
 [![GitHub](https://img.shields.io/badge/GitHub-660099?style=for-the-badge&logo=github&logoColor=bf80ff)]()
-![CSS3](https://img.shields.io/badge/CSS3-b300b3?style=for-the-badge&logo=css3&logoColor=bf80ff)
-![HTML5](https://img.shields.io/badge/HTML-b300b3?style=for-the-badge&logo=html5&logoColor=bf80ff)
-![PHP](https://img.shields.io/badge/PHP-b300b3?style=for-the-badge&logo=php&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-b300b3.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![React](https://img.shields.io/badge/React-b300b3?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-c653c6?style=for-the-badge&logo=mysql&logoColor=white)
-![Django](https://img.shields.io/badge/django-c653c6.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ### Sistemas Operacionais:
 ![macOS](https://img.shields.io/badge/mac%20os-862d59?style=for-the-badge&logo=macos&logoColor=F0F0F0)
