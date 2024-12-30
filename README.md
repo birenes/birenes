@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?&height=200&type=waving&color=gradient&customColorList=9,11,9,25?type=transparent&text=birenes&animation=fadeIn&fontColor=f2f2f2&fontAlign=15&fontAlignY=35)
 ## Olá, Sou uma estudante de Ciência da Computação na UERJ :)
 ###### Apaixonada por tecnologia, inovação e artes. Adoro explorar novas ideias e aprender coisas novas. No meu tempo livre gosto de codar, jogar, pintar e tocar instrumentos.
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=birenes&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Links:
 
